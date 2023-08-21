@@ -1,1 +1,1 @@
-# Prediction-of-flipkart-product-rating-usinf-deep-learning
+# Prediction of product rating using deep learning
